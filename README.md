@@ -29,7 +29,7 @@ Example:
 ## 📖 How to Use
 Clone the repository:
 
-git clone https://github.com/Harish1005/simple-calculator.git
+git clone https://github.com/Harish1005/Calculator
 
 Open index.html in your browser.
 
