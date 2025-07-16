@@ -4,6 +4,8 @@ A basic Calculator App built using HTML, CSS, and JavaScript. It performs standa
 ## 🔗 Live Demo
 👉 Use the Calculator
 
+https://calculator-harishmh.netlify.app/
+
 ## 🛠️ Tech Stack
 ✅ HTML5 – Structure of the calculator
 
